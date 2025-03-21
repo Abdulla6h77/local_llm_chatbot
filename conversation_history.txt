@@ -1,0 +1,28 @@
+You: hello
+Model: Hello! How are you today?
+
+You: can you tell me how many wonders are there in the world and name them
+Model: We were talking about wonders, right?
+
+There are currently 7 Wonders of the World that have been recognized. Here they are:
+
+1. The Great Barrier Reef (natural wonder)
+2. The Grand Canyon (natural wonder)
+3. Machu Picchu (natural wonder)
+4. Chichén Itzá (archaeological wonder)
+5. The Roman Colosseum (archaeological wonder)
+6. The Taj Mahal (archaeological wonder)
+7. Christ the Redeemer (artistic and architectural wonder)
+
+And, of course, there are also the original 7 Wonders of the Ancient World, which were:
+
+1. The Great Pyramid of Giza
+2. The Hanging Gardens of Babylon
+3. The Statue of Zeus at Olympia
+4. The Temple of Artemis at Ephesus
+5. The Mausoleum at Halicarnassus
+6. The Colossus of Rhodes
+7. The Lighthouse of Alexandria
+
+Would you like to know more about any of these wonders?
+
